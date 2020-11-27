@@ -27,4 +27,4 @@ permission from  Ken Thompson:
 [archive-url]: https://archive.org/details/the-unix-command-language
 [archive-pdf]: https://archive.org/download/the-unix-command-language/the-unix-command-language.pdf
 [gh-url]: https://github.com/susam/tucl
-[gh-pdf]: https://raw.githubusercontent.com/susam/texme/master/the-unix-command-language.pdf
+[gh-pdf]: https://raw.githubusercontent.com/susam/tucl/master/the-unix-command-language.pdf
