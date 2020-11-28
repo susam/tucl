@@ -405,7 +405,7 @@ in the directory but not on tape.
 Mathematical typesetting can be performed by
 
 <pre>
-eqn &gt;text | troff
+eqn &lt;text | troff
 </pre>
 
 The `troff` program accepts text and formatting directives for the
