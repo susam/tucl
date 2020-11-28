@@ -37,7 +37,7 @@ the [img](img) directory of this repository.
 Combined PDF
 ------------
 
-The scanned images were [combined][Makefile] into a single PDF document
+The scanned images were [combined](Makefile) into a single PDF document
 by [me][susam] using Imagemagick's `convert` program in order to make it
 easier to read the paper. The combined PDF document is available at the
 following places:
