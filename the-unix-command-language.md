@@ -219,7 +219,7 @@ First, and trivially,
 </pre>
 
 does absolutely nothing. The command `:` is the much talked about 'null'
-programm; it ignores its arguments and simply exits. One of its uses is
+program; it ignores its arguments and simply exits. One of its uses is
 to annotate Shell sequences.
 
 The command
@@ -448,7 +448,7 @@ order, the variant
 calc | sort | plot
 </pre>
 
-would fix that. Also if smoothing is necessary, the futher amendment
+would fix that. Also if smoothing is necessary, the further amendment
 
 <pre>
 calc | sort | spline | plot
