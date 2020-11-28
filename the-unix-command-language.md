@@ -247,7 +247,7 @@ goto loop
 is placed in a file, then the command
 
 <pre>
-sh &gt;file
+sh &lt;file
 </pre>
 
 will execute whatever is specified by *`command`* about every two
