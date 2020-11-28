@@ -92,7 +92,7 @@ issue][issues] or [send a pull request][gitpr].
 Discuss
 -------
 
-This is a remarkably paper due to its historical importance as well as
+This is a remarkable paper due to its historical importance as well as
 due to its clear presentation and concise treatment. You are welcome to
 discuss your favourite excerpts from this paper on the [issues
 page][issues] of this repository or on [Twitter][twitter-discuss].
