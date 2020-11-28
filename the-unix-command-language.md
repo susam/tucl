@@ -298,7 +298,7 @@ date | snobol spdate  | speak
 The date command produces output of the form:
 
 <pre>
-Wed Jan 8 21:26:39 EST 1975
+Wed Jan 8 21:36:39 EST 1975
 </pre>
 
 The second command runs the SNOBOL program `spdate`, which produces the
