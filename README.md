@@ -19,6 +19,7 @@ Contents
 - [Combined PDF](#combined-pdf)
 - [Markdown Transcript](#markdown-transcript)
 - [Permission](#permission)
+- [Credits](#credits)
 - [Issues](#issues)
 - [Discuss](#discuss)
 
