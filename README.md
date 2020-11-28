@@ -64,6 +64,23 @@ copy of the paper, the combined PDF, or a conversion of this format to
 any text format on the Internet as long as it is freely available.
 
 
+Credits
+-------
+
+- [Ken Thompson](http://cs.bell-labs.co/who/ken/) for publishing the
+  original paper, scanning the paper, sending a scanned copy to us, and
+  granting us the permission to convert it to other formats and share
+  them on the Internet.
+- [wesleyneo](https://archive.org/details/@wesleyneo) for sharing the
+  scanned images of the paper on the Internet Archive and for
+  transcribing the image to text format.
+- [Susam Pal](https://github.com/susam) for converting the scanned
+  images to combined PDF, proofreading the transcript, and
+  converting the transcript to Markdown format.
+- [userbinator](https://news.ycombinator.com/user?id=userbinator) for
+  proofreading the Markdown document.
+
+
 Issues
 ------
 
