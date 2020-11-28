@@ -87,7 +87,7 @@ sh &lt;<em>filename</em>
 
 instructs the Shell to run the `sh` command with the standard input
 switched to the file. This happens to be the name of the Shell itself.
-This this invokes a second Shell to read and execute the commands
+Thus this invokes a second Shell to read and execute the commands
 specified in the file.
 
 The obvious extension of this syntax:
@@ -101,7 +101,8 @@ redirected to a file called `output`. This file will be created by the
 Shell if it does not already exist. If it exists, it will be truncated.
 The `ls` (abbreviation of list) command writes an alphabetical list of
 the names of all of the files in the current working directory. It is
-totally unaware of the redirection of the standard output had occurred.
+totally unaware of the redirection of the standard output that has
+occurred.
 
 Another instance of output redirection
 
@@ -144,7 +145,7 @@ a previous example, the command
 sh &lt;crd &gt;lpr&
 </pre>
 
-will start a 'batch' job stream without typing up a console.
+will start a 'batch' job stream without tying up a console.
 
 The most exotic feature of the Shell is its ability to connect the
 standard output of one command directly to the standard input of
@@ -264,7 +265,7 @@ arguments as a command. The expression may concern such things as the
 existence of files, comparison of strings, and the successful execution
 of commands.
 
-The Shell, as command, may be passed arguments. If it is, these
+The Shell, as a command, may be passed arguments. If it is, these
 arguments may be substituted into the standard input like macro
 arguments. The Shell also allows for its whole list of arguments to be
 shifted. This makes it possible to repeat the same set of commands for
@@ -474,7 +475,7 @@ The user is informed of the existence of this 'mailbox' when he first logs
 on.
 
 What happened was that the person who maintains C accidentally installed
-a bad compiler late a night. When the morning crowd arrived, virtually
+a bad compiler late at night. When the morning crowd arrived, virtually
 all work was at a standstill. This example shows how one user sent
 twelve pages of undeserved C diagnostics to the culprit by way of a
 subtle complaint about the bug.
@@ -490,9 +491,9 @@ tasks have the form:
 <em>source</em> | <em>filter</em> | <em>sink</em>
 </pre>
 
-Here the *`source`* programs has something to say; `ls` and `date` are
+Here the *`source`* program has something to say; `ls` and `date` are
 UNIX source programs. (Often the source is replaced by a file, which
-states its contents.) This is often processed by zero or more *`filter`*
+states it contents.) This is often processed by zero or more *`filter`*
 programs from where it is delivered to a *`sink`*. The sink is usually
 defaulted to the console, but can be an output file or a program
 resembling a pseudo-device. `Sort` and `uniq` are filters and `speak`
@@ -517,7 +518,7 @@ SERMONETTE
 Many familiar computing 'concepts' are missing from UNIX. Files have no
 records. There are no access methods. User programs contain no system
 buffers. There are no file types. These concepts fill a much-needed gap.
-In sincerely hope that when future systems are designed by manufacturers
+I sincerely hope that when future systems are designed by manufacturers
 the value of some of these ingrained notions is reexamined. Like the
 politician and his 'common man', manufacturers have their 'average
 user'.
