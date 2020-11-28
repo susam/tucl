@@ -219,7 +219,7 @@ First, and trivially,
 </pre>
 
 does absolutely nothing. The command `:` is the much talked about 'null'
-programm; it ignores its arguments and simply exits. One of its uses is
+program; it ignores its arguments and simply exits. One of its uses is
 to annotate Shell sequences.
 
 The command
