@@ -15,12 +15,12 @@ The typed copy of this paper was published in
 Contents
 --------
 
-* [Scanned Images](#scanned-images)
-* [Combined PDF](#combined-pdf)
-* [Markdown Transcript](#markdown-transcript)
-* [Permission](#permission)
-* [Issues](#issues)
-* [Discuss](#discuss)
+- [Scanned Images](#scanned-images)
+- [Combined PDF](#combined-pdf)
+- [Markdown Transcript](#markdown-transcript)
+- [Permission](#permission)
+- [Issues](#issues)
+- [Discuss](#discuss)
 
 
 Scanned Images
