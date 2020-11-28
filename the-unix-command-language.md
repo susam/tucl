@@ -96,7 +96,7 @@ The obvious extension of this syntax:
 ls &gt;output
 </pre>
 
-instructs the Shell to run the `ls` command with the standard output
+instructs the Shell to run the `ls` command with standard output
 redirected to a file called `output`. This file will be created by the
 Shell if it does not already exist. If it exists, it will be truncated.
 The `ls` (abbreviation of list) command writes an alphabetical list of
