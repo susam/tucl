@@ -1,4 +1,3 @@
-<!-- page 1 -->
 THE UNIX COMMAND LANGUAGE
 =========================
 
@@ -12,7 +11,6 @@ Bell Laboratories
 © K Thompson 1976
 
 
-<!-- page 2 -->
 ---
 
 *K THOMPSON has a BS and an MS in Electrical Engineering from the
@@ -27,7 +25,6 @@ around the UNIX time-sharing system and its subsystems software.*
 ---
 
 
-<!-- page 3 -->
 INTRODUCTION
 ------------
 
@@ -77,9 +74,9 @@ user's vocabulary.
 Every command executed has two files pre-opened for it. One can be read
 from (the standard input) and other can be written to (the standard
 output). Normally, a program's standard input is the user's console
-keyboard, and the standard output is <!-- page 4 --> the console
-printer.Thus, most commands use the standard I/O files for interactive
-communication with the user.
+keyboard, and the standard output is the console printer.Thus, most
+commands use the standard I/O files for interactive communication with
+the user.
 
 The Shell has the ability to redirect a command's standard I/O files
 without the command's knowledge. For example, the syntax:
@@ -149,7 +146,6 @@ sh &lt;crd &gt;lpr&
 
 will start a 'batch' job stream without typing up a console.
 
-<!-- page 5 -->
 The most exotic feature of the Shell is its ability to connect the
 standard output of one command directly to the standard input of
 another. Again, neither program is aware that such things are going on.
@@ -221,7 +217,6 @@ First, and trivially,
 : argument
 </pre>
 
-<!-- page 6-->
 does absolutely nothing. The command `:` is the much talked about 'null'
 programm; it ignores its arguments and simply exits. One of its uses is
 to annotate Shell sequences.
@@ -291,7 +286,6 @@ This section consists of further examples of Shell facilities followed
 by explanations of the commands used.
 
 
-<!-- page 7 -->
 ### Spoken output
 
 Consider the example
@@ -364,7 +358,6 @@ to `speak`, which pronounces it.
 
 In the example
 
-<!-- page 8 -->
 <pre>
 crypt password &lt;in | <em>program</em> | crypt password &gt;out
 </pre>
@@ -433,8 +426,8 @@ e sup {x sup {2 alpha} + y sup {2 beta}}                       e<sup>x<sup>2&alp
 
 There are many more examples of language pre-processors. The desk
 calculator described above has an algebraic language front end. The
-FORTRAN compiler has a facade <!-- page 9 --> implementing modern
-control structure `(140)`.
+FORTRAN compiler has a facade implementing modern control structure
+`(140)`.
 
 
 ### Curve plotting
@@ -505,7 +498,6 @@ defaulted to the console, but can be an output file or a program
 resembling a pseudo-device. `Sort` and `uniq` are filters and `speak`
 and `plot` are pseudo-device sinks.
 
-<!-- page 10 -->
 When new UNIX software is required, the prospective program can usually
 be recognized as belonging to one of these categories. As a result of
 this classification and a realization of a program's relationship to
