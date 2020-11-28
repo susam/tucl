@@ -448,7 +448,7 @@ order, the variant
 calc | sort | plot
 </pre>
 
-would fix that. Also if smoothing is necessary, the futher amendment
+would fix that. Also if smoothing is necessary, the further amendment
 
 <pre>
 calc | sort | spline | plot
