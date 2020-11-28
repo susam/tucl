@@ -295,7 +295,7 @@ Consider the example
 date | snobol spdate  | speak
 </pre>
 
-The date command produces output of the form:
+The `date` command produces output of the form:
 
 <pre>
 Wed Jan  8 21:36:39 EST 1975
