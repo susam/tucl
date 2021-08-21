@@ -440,7 +440,7 @@ calc | plot
 </pre>
 
 is a simple example of a calculation that produces as output a set of
-paried numbers. The `plot` program accepts numbers, and produces a
+paired numbers. The `plot` program accepts numbers, and produces a
 scaled labelled plot. If `calc` did not produce the numbers in monotonic
 order, the variant
 
