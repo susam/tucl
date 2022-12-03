@@ -384,7 +384,7 @@ option, `tp` produces a list of the files contained on a tape. The
 parentheses and semicolon concatenate the outputs of the two lists,
 which are sorted and delivered to `uniq`, which compares adjacent lines
 of text for equality. Conceptually, `uniq` splits a single copy of all
-duplicated lines onto a `d` steam and all other lines (unique lines) onto
+duplicated lines onto a `d` stream and all other lines (unique lines) onto
 a `u` stream. The `u` option selects the `u` stream to be output. Thus the
 example will print all files that are found only on tape *or* only in
 the current directory. All file names found both on tape *and* in the
